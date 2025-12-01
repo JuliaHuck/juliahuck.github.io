@@ -16,7 +16,7 @@ toc_sticky: true
   University of Calgary, Calgary, Alberta, Canada<br>
   <em>2025–today</em><br>
   <strong>Research focus:</strong> <em>Linking QSM susceptibility to brain metabolites using MRS and investigating metabolic alterations in pediatric and adult migraine</em><br>
-  <strong>Supervisor:</strong> Ashley Harris
+  <strong>Supervisor:</strong> Ashley D. Harris
 </div>
 
 <br>
