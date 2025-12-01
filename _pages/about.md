@@ -19,6 +19,7 @@ toc_sticky: true
   <strong>Supervisor:</strong> Ashley Harris
 </div>
 
+<br>
 <div class="archive__item">
   <strong>{% include colored-degree.html label="Postdoctoral Fellow" %}</strong><br>
   Université de Sherbrooke, Sherbrooke, Quebec, Canada<br>
@@ -62,7 +63,7 @@ toc_sticky: true
 <ul>
   <li><strong>German:</strong> Native proficiency</li>
   <li><strong>English:</strong> Fluent (spoken and written)</li>
-  <li><strong>French:</strong> Intermediate (B1); currently taking private lessons to improve</li>
+  <li><strong>French:</strong> Intermediate (B1)</li>
 </ul>
 </details>
 
