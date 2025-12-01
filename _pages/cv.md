@@ -1,5 +1,5 @@
 ---
-title: "Curriculum vitae"
+title: "CV"
 layout: archive
 sitemap: true
 author_profile: true
