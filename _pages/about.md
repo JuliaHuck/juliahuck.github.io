@@ -12,9 +12,17 @@ toc_sticky: true
 
 ## Postdoctoral Training
 <div class="archive__item">
+  <strong>{% include colored-degree.html label="Postdoctoral Associate" %}</strong><br>
+  University of Calgary, Calgary, Alberta, Canada<br>
+  <em>2023–2025</em><br>
+  <strong>Research focus:</strong> <em>Linking QSM susceptibility to brain metabolites using MRS and investigating metabolic alterations in pediatric and adult migraine</em><br>
+  <strong>Supervisor:</strong> Ashley Harris
+</div>
+
+<div class="archive__item">
   <strong>{% include colored-degree.html label="Postdoctoral Fellow" %}</strong><br>
   Université de Sherbrooke, Sherbrooke, Quebec, Canada<br>
-  <em>2023–today</em><br>
+  <em>2023–2025</em><br>
   <strong>Research focus:</strong> <em>Vascular contributions to brain aging and neurodegeneration using advanced MRI analysis and algorithm development</em><br>
   <strong>Supervisor:</strong> Kevin Whittingstall
 </div>
