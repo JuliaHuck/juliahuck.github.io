@@ -14,7 +14,7 @@ toc_sticky: true
 <div class="archive__item">
   <strong>{% include colored-degree.html label="Postdoctoral Associate" %}</strong><br>
   University of Calgary, Calgary, Alberta, Canada<br>
-  <em>2023–2025</em><br>
+  <em>2025–today</em><br>
   <strong>Research focus:</strong> <em>Linking QSM susceptibility to brain metabolites using MRS and investigating metabolic alterations in pediatric and adult migraine</em><br>
   <strong>Supervisor:</strong> Ashley Harris
 </div>
