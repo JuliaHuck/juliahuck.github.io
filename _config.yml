@@ -115,10 +115,10 @@ analytics:
 author:
   name             : "Julia Huck"
   avatar           : "/assets/julia_photo.png"
-  bio              : "I am a neuroscientist."
-  location         : "Sherbrooke, QC, Canada"
-  employer         : "Université de Sherbrooke"
-  email            : # Julia.Huck@usherbrooke.ca
+  bio              : "I combine vascular MRI, QSM, and MRS to study how brain oxygenation, metabolism, and vascular health interact, with a focus on linking imaging markers to underlying biological processes."
+  location         : "Calgary, AB, Canada"
+  employer         : "University of Calgary"
+  email            : # Julia.Huck@ucalgary.ca
   
   googlescholar    : #"https://scholar.google.ca/citations?user=7CXEubUAAAAJ&hl=en&oi=sra"
   impactstory      : # URL
