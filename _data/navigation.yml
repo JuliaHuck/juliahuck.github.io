@@ -10,8 +10,8 @@ main:
     url: /scholarships/  
   - title: "Research"
     url: /research/
- # - title: "CV"
- #   url: /cv/
+  - title: "CV"
+    url: /cv/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
