@@ -1,6 +1,7 @@
 ---
 title: ""
 layout: archive
+classes: wide
 sitemap: true
 permalink: /
 author_profile: true
