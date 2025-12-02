@@ -1,9 +1,10 @@
 ---
 title: "CV"
 layout: archive
+classes: wide
 sitemap: true
+permalink: /cv/
 author_profile: true
-permalink: /CV/
 ---
 
 Add here CV to download
