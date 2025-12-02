@@ -1,6 +1,7 @@
 ---
 title: "Scholarships & Awards"
 layout: archive
+classes: wide
 sitemap: true
 permalink: /scholarships/
 author_profile: true
