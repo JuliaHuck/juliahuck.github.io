@@ -4,10 +4,6 @@ layout: single
 sitemap: true
 permalink: /scholarships/
 author_profile: true
-toc: true
-toc_label: "Scholarships & Awards"
-toc_icon: "gear"
-toc_sticky: true
 ---
 
 
