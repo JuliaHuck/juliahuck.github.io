@@ -1,6 +1,6 @@
 ---
 title: "Scholarships & Awards"
-layout: single
+layout: default
 sitemap: true
 permalink: /scholarships/
 author_profile: true
